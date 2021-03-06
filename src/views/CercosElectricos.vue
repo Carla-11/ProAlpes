@@ -27,8 +27,6 @@
           <div class="card-body">
             <h4 class="card-title">Cercos Perimetrales</h4>
             <h5>Caracteristicas</h5>
-
-            <li>Instalacion cercos electricos</li>
             <li>24 horas activo, 24 horas protegido.</li>
             <li>Certificación SEC</li>
             <li>Hogar – Industrial – Agricola</li>
@@ -40,17 +38,17 @@
         <div class="card col-4">
           <img
             class="card-img-top"
-            src="../assets/dalarma.jpg"
+            src="../assets/cerco2.jpeg"
             alt="Card image cap"
           />
           <div class="card-body list-card">
-            <h4 class="card-title">Alarmas de Deteccion</h4>
-            <h5>Caracteristicas</h5>
+            <h4 class="card-title">Mantenciones</h4>
+            <h5>Servicios</h5>
 
-            <li>Central Deteccìon de incendios</li>
-            <li>Detector de incendios </li>
-            <li>Pulsador manueal de alarma</li>
-            <li>Sirena</li>
+           <li>Instalacion cercos electricos</li>
+            <li>Mantenimiento perimetro Electrico</li>
+            <li>Mantenimiento Preventivo energizador</li>
+            <li>Asesoria Profesional</li>
 
             <p class="card-text my-3">
               <small class="text-muted">Consulte por su proyecto</small>
@@ -60,16 +58,16 @@
         <div class="card col-4">
           <img
             class="card-img-top"
-            src="../assets/acomunitaria.jpg"
+            src="../assets/cerco3.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
-            <h4 class="card-title">Alarmas Comunitarias</h4>
+            <h4 class="card-title">Perimetro Electrificado</h4>
             <h5>Caracteristicas</h5>
 
-            <li>Alerta inmediata</li>
-            <li>Hasta x controles por Alarma</li>
-            <li>Vecinos Resguardados</li>
+            <li>No es Letal</li>
+            <li>Altamente Disuasivo</li>
+            <li>Rapida Instalacion</li>
             <p class="card-text">
               <small class="text-muted">Consulte por su proyecto</small>
             </p>
